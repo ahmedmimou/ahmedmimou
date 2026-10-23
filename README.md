@@ -19,7 +19,7 @@ hello i'm ahmed graphic designer and a future software engineer interested in cy
 [![](https://komarev.com/ghpvc/?username=ahmedmimou&icon=1&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Ahmed Abdel Moumen Zalene) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Ahmed_Abdel_Moumen_Zalene) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
